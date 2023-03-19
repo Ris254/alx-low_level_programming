@@ -14,7 +14,7 @@ int main(void)
 
 	for (x = '0'; x < '9'; x++)
 	{
-	for (z = x + 1; z <= '9'; p++)
+	for (z = x + 1; z <= '9'; z++)
 	{
 	if (x != z)
 	{
