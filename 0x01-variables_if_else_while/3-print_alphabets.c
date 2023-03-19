@@ -17,6 +17,6 @@ int main(void)
 		printf("%c, k");
 	for (k = 'A'; k <= 'Z'; K++)
 		printf("%c, k");
-	printf('\n')
+	printf("\n")
 	return (0)
 }
