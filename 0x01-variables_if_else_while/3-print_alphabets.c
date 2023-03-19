@@ -14,9 +14,9 @@ int main(void)
 	char k;
 
 	for (k = 'a'; k <= 'z'; k++)
-		printf("%c, k");
+		putchar(k);
 	for (k = 'A'; k <= 'Z'; K++)
-		printf("%c, k");
-	printf("\n")
+		putchar(k);
+	putchar(\n)
 	return (0)
 }
