@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	char letter;
+	char x;
 
-	for (letter 'a'; letter 'z'; letter++)
-		putcher(letter);
-	putcher('\n')
-	return (0)
+	for (x = 'a'; x <= 'z'; x++)
+		putcher(x);
+		putcher('\n');
+	return (0);
 }
