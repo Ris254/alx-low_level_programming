@@ -13,7 +13,7 @@ int main(void)
 	char x;
 
 	for (x = 'a'; x <= 'z'; x++)
-		putcher(x);
-		putcher('\n');
+		putchar(x);
+	putchar('\n');
 	return (0);
 }
